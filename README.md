@@ -58,5 +58,5 @@ Link > https://drive.google.com/file/d/1Df9L-lVlT8xp4P5Ea5Cq3Hheo4ZanA04/view?us
 
 Contributions and suggestions are always welcome! Feel free to submit a pull request or open an issue with suggestions for new features or improvements to the existing code.
 
-![example](https://imgur.com/a/olB6R48)
+![example](https://i.imgur.com/ZOshG65.png).
 
